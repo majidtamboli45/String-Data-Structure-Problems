@@ -208,7 +208,7 @@ Some common **DSA problems using strings**:
 
 **Prepared by:**
 
-### Majid Tamboli
+### MAJID TAMBOLI
 
 🔗 GitHub:
 https://github.com/majidtamboli45
