@@ -47,7 +47,6 @@ int main() {
 
     string result = obj.toGoatLatin(sentence);
 
-    cout << "Goat Latin: " << result << endl;
-
+    cout << "Goat Latin: " << result << endl;
     return 0;
 }
