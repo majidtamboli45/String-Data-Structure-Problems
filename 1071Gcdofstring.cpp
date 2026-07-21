@@ -34,7 +34,6 @@ int main() {
     if(result == "")
         cout << "No common divisor string exists" << endl;
     else
-        cout << "GCD of Strings: " << result << endl;
-
+        cout << "GCD of Strings: " << result << endl;
     return 0;
 }
